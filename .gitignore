@@ -1,0 +1,14 @@
+# Visual Studio defaults
+.vs/
+bin/
+obj/
+*.user
+*.suo
+*.pdb
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+
+# Packages
+packages/
